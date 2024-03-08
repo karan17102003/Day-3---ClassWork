@@ -1,0 +1,14 @@
+.container{
+    background-color: #1F2937;
+    color: #ffffff;
+    text-align: center;
+    padding: 2rem;
+    border-radius: .5rem;
+}
+.author-text{
+    color: #5fccdf;
+}
+.container>p{
+    font-size: 30px;
+    font-weight: 500;
+}
